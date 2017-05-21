@@ -1,0 +1,13 @@
+{
+    "type": "ecmascript",
+    "id": "testlostfilm",
+    "file": "lostfilm.js",
+    "showtimeVersion": "4.9.401",
+    "version": "0.3.3",
+    "author": "mpertsov",
+    "homepage": "https://github.com/mpertsov/movian-lostfilm",
+    "title": "LostFilm.TV",
+    "icon": "logo.png",
+    "synopsis": "LostFilm.TV. Лучшие сериалы.",
+    "category": "video"
+}
